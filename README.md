@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Jeremy. I am learning software development. It's nice to meet you!! 👋
 
 <!--
 **gentwin205/gentwin205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
